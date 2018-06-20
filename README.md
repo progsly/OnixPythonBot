@@ -5,9 +5,9 @@ Copy **config.default.py** to **config.py**
 
 Fill the parameters in config.py.
 
-"TOKEN": "bot token "
+`"TOKEN": "bot token "`
 
-"HOST": "server url - mybot.example.com"
+`"HOST": "server url - mybot.example.com"`
 
 
 Run commands: 
